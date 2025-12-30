@@ -245,6 +245,10 @@ body {
     padding: 10px 45px;
 }
 
+.main__text a {
+    color: #171717;
+}
+
 .main__fullText {
     font-family: "PT Sans";
     font-style: normal;
@@ -263,6 +267,10 @@ body {
     line-height: 16px;
     margin-bottom: 15px;
     text-align: center;
+}
+
+.main__author a {
+    color: #666666;
 }
 
 .content__aside {
